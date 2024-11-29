@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: mxa.mailgun.org
 mx: mxb.mailgun.org
 max_age: 604800
