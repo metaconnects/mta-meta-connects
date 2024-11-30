@@ -5,5 +5,5 @@ mx: alt2.aspmx.l.google.com
 mx: aspmx.l.google.com
 mx: alt3.aspmx.l.google.com
 mx: alt4.aspmx.l.google.com
-mx: mx.google.com
+mx: smtp.google.com
 max_age: 604800
